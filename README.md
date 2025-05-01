@@ -1,10 +1,14 @@
 # Meu Formulário de Login
-Meu Formulário de Login
 
-Este é um simples formulário de login feito com HTML, CSS e JavaScript.
+Projeto simples de um formulário de login com tema escuro.
 
-## Tecnologias usadas
-- HTML5
-- CSS3
+## 💻 Tecnologias
+- HTML
+- CSS (Dark Mode)
 - JavaScript
-- Bootstrap 5
+
+## 🚀 Como usar
+1. Baixe ou clone este repositório
+2. Abra o `index.html` no navegador
+
+## 📁 Estrutura
