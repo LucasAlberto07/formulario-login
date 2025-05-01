@@ -13,9 +13,12 @@ Projeto simples de um formulário de login com tema escuro.
 
 ## 📁 Estrutura
 formulario-login/
+│
 ├── index.html
 ├── README.md
+│
 ├── css/
 │   └── style.css
-├── js/
-│   └── script.js
+│
+└── js/
+    └── script.js
